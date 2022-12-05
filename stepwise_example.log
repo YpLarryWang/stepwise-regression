@@ -1,0 +1,23 @@
+2022-12-06 02:04:39,894 - root - INFO - Add  OverallQual                              with f_pvalue 2.59614e-245
+2022-12-06 02:04:39,957 - root - INFO - Add  1stFlrSF                                 with f_pvalue 5.47132e-48
+2022-12-06 02:04:40,031 - root - INFO - Add  2ndFlrSF                                 with f_pvalue 1.04955e-40
+2022-12-06 02:04:40,119 - root - INFO - Add  YearBuilt                                with f_pvalue 1.33232e-21
+2022-12-06 02:04:40,218 - root - INFO - Add  MSSubClass                               with f_pvalue 6.73468e-11
+2022-12-06 02:04:40,329 - root - INFO - Add  BsmtFullBath                             with f_pvalue 7.6906e-18
+2022-12-06 02:04:40,454 - root - INFO - Add  GarageCars                               with f_pvalue 9.18052e-12
+2022-12-06 02:04:40,593 - root - INFO - Add  LotArea                                  with f_pvalue 5.37059e-06
+2022-12-06 02:04:40,751 - root - INFO - Add  OverallCond                              with f_pvalue 7.09868e-07
+2022-12-06 02:04:40,925 - root - INFO - Add  BedroomAbvGr                             with f_pvalue 1.65421e-05
+2022-12-06 02:04:41,115 - root - INFO - Add  LotFrontage                              with f_pvalue 0.00724488
+2022-12-06 02:04:41,323 - root - INFO - Add  MasVnrArea                               with f_pvalue 0.000526575
+2022-12-06 02:04:41,546 - root - INFO - Add  YearRemodAdd                             with f_pvalue 0.00544746
+2022-12-06 02:04:41,840 - root - INFO - Add  BsmtFinSF1                               with f_pvalue 0.00590337
+2022-12-06 02:04:42,137 - root - INFO - Add  TotRmsAbvGrd                             with f_pvalue 0.000438705
+2022-12-06 02:04:42,453 - root - INFO - Add  Fireplaces                               with f_pvalue 0.00332502
+2022-12-06 02:04:42,806 - root - INFO - Add  ScreenPorch                              with f_pvalue 0.00346187
+2022-12-06 02:04:43,156 - root - INFO - Add  LowQualFinSF                             with f_pvalue 0.039122
+2022-12-06 02:04:43,533 - root - INFO - Add  WoodDeckSF                               with f_pvalue 0.00896822
+2022-12-06 02:04:44,115 - root - INFO - Final variables: ['OverallQual', '1stFlrSF', '2ndFlrSF', 'YearBuilt', 'MSSubClass', 'BsmtFullBath', 'GarageCars', 'LotArea', 'OverallCond', 'BedroomAbvGr', 'LotFrontage', 'MasVnrArea', 'YearRemodAdd', 'BsmtFinSF1', 'TotRmsAbvGrd', 'Fireplaces', 'ScreenPorch', 'LowQualFinSF', 'WoodDeckSF']
+2022-12-06 02:04:44,115 - root - INFO - Final r^2      : 0.8017473290260659
+2022-12-06 02:04:44,118 - __main__ - INFO - r^2: 0.8199
+2022-12-06 02:04:44,118 - __main__ - INFO - rmse: 3.717e+04
