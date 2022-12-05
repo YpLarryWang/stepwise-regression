@@ -9,7 +9,7 @@ from sklearn.metrics import r2_score, mean_squared_error
 from sklearn.linear_model import LinearRegression
 
 data_dir = './data/'
-log_dir = f'./stepwise_example.log'
+log_dir = './stepwise_example.log'
 
 logging.basicConfig(filename=log_dir,
                     level=logging.INFO,
